@@ -1,0 +1,13 @@
+.libs
+.deps
+Makefile.in
+Makefile
+*.o
+*.a
+time-admin
+.libs
+time.security
+time.desktop
+time.desktop.in
+time.desktop.menu
+time.desktop.cc
